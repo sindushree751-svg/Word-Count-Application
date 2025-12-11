@@ -1,0 +1,3 @@
+Hello this is a sample spark word count test file.
+Spark helps process big data fast.
+This test file is used for word count project.
